@@ -1,0 +1,17 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "react",
+            "react-native",
+            "react-native-navigation",
+            "react-native-vector-icons",
+            "react-native-svg"
+        ]
+    },
+    "compilerOptions": {
+        "target": "es6"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
